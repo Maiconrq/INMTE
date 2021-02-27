@@ -5,6 +5,7 @@
 [![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/afonsopacifer/open-source-boilerplate/blob/master/LICENSE.md)
 
 > :rocket: Project with OO approaches and Java applications.  / 
+
 > :rocket: Projeto com abordagens de OO e aplicações em Java.
 
 ## Versioning / Versionamento
@@ -14,7 +15,8 @@ Esse projeto não segue nenhum requisito de versionamento.
 
 ## Contributing / Contribuindo
 
-Want to contribute? **Follow these recommendations:<b/>**  /
+Want to contribute? **Follow these recommendations:<b/>**  
+
 
 Pretende contribuir? **siga esses passos:**
 
