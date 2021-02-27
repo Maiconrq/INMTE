@@ -9,10 +9,12 @@
 > :rocket: **Projeto com abordagens de OO e aplicações em Java.**
 
 
+
 ## Versioning / Versionamento
 - This project does not follow any versioning requirements.
 
 > **Esse projeto não segue nenhum requisito de versionamento.**
+
 
 
 ## Contributing / Contribuindo
@@ -44,10 +46,12 @@
 > Depois que seu pull request for mergeado, você pode apagar sua branch. 
 
 
+
 ## History / História
 - See [Commit changes](https://github.com/Maiconrq/INMTE/commits/main) for details.
 
 > **Consulte [Mudanças de commit](https://github.com/Maiconrq/INMTE/commits/main) para obter detalhes.**
+
 
 
 ## License / Licença
