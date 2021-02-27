@@ -2,14 +2,13 @@
 
 # INMTE
 [![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/afonsopacifer/open-source-boilerplate/blob/master/LICENSE.md)
-> :rocket: Projeto com abordagens de OO e aplicações em Java.
-## Versioning
+> :rocket: Projeto com abordagens de OO e aplicações em Java./Project with OO approaches and Java applications.
+## Versioning/Versionamento
 To keep better organization of releases we follow the [Semantic Versioning 2.0.0](http://semver.org/) guidelines.
 # Contributing/Contribuindo
 
 <details>
-<summary><b><i>Want to contribute? Follow these recommendations:</i></b></summary>
-<summary>Want to contribute? Follow these recommendations:</summary>
+<summary>Want to contribute? Follow these recommendations:/Pretende contribuir? siga esses passos:</summary>
 
 ## PT-BR 🇧🇷
 1. Crie um fork!
@@ -32,9 +31,8 @@ To keep better organization of releases we follow the [Semantic Versioning 2.0.0
 **After your pull request is merged** 
 > After your pull request is merged, you can safely delete your branch.
 <details/>
-<br/>
 
-## History
-See [Commit changes](https://github.com/Maiconrq/INMTE/commits/main) for details.
+## History/história
+See [Commit changes](https://github.com/Maiconrq/INMTE/commits/main) for details./Consulte [Mudanças de commit](https://github.com/Maiconrq/INMTE/commits/main) para obter detalhes.
 ## License
 [MIT License](https://github.com/Maiconrq/INMTE/blob/main/LICENSE) © [Maicon Rodrigues](https://github.com/Maiconrq)
