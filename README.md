@@ -4,21 +4,21 @@
 [![Série](https://img.shields.io/badge/Maiconrq-INMTE-orange)](https://github.com/Maiconrq/INMTE)
 [![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/afonsopacifer/open-source-boilerplate/blob/master/LICENSE.md)
 
-> :rocket: Project with OO approaches and Java applications.  / 
+> :rocket: Project with OO approaches and Java applications. 
 
-> :rocket: Projeto com abordagens de OO e aplicações em Java.
+>> :rocket: Projeto com abordagens de OO e aplicações em Java.
 
 ## Versioning / Versionamento
-This project does not follow any versioning requirements.  /
+This project does not follow any versioning requirements.
 
-Esse projeto não segue nenhum requisito de versionamento.
+> Esse projeto não segue nenhum requisito de versionamento.
 
 ## Contributing / Contribuindo
 
 Want to contribute? **Follow these recommendations:<b/>**  
 
 
-Pretende contribuir? **siga esses passos:**
+> Pretende contribuir? **siga esses passos:**
 
 ## en-US 🇺🇸
 1. Fork it!
@@ -43,9 +43,9 @@ Pretende contribuir? **siga esses passos:**
 > Depois que seu pull request for mergeado, você pode apagar sua branch. 
 
 ## History / História
-See [Commit changes](https://github.com/Maiconrq/INMTE/commits/main) for details.  /
+See [Commit changes](https://github.com/Maiconrq/INMTE/commits/main) for details.
 
-Consulte [Mudanças de commit](https://github.com/Maiconrq/INMTE/commits/main) para obter detalhes.
+> Consulte [Mudanças de commit](https://github.com/Maiconrq/INMTE/commits/main) para obter detalhes.
 
 ## License / Licença
 [MIT License](https://github.com/Maiconrq/INMTE/blob/main/LICENSE) © [Maicon Rodrigues](https://github.com/Maiconrq)
