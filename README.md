@@ -12,7 +12,8 @@ To keep better organization of releases we follow the [Semantic Versioning 2.0.0
 
 # Contributing/Contribuindo
 
-Want to contribute? Follow these recommendations:
+<details>
+<summary><b><i>Want to contribute? Follow these recommendations:</i></b></summary>
 
 ## PT-BR 🇧🇷
 1. Crie um fork!
@@ -41,7 +42,7 @@ Want to contribute? Follow these recommendations:
 **After your pull request is merged** 
 
 > After your pull request is merged, you can safely delete your branch.
-
+<details/>
 
 ## History
 See [Commit changes](https://github.com/Maiconrq/INMTE/commits/main) for details.
