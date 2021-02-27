@@ -4,7 +4,7 @@
 [![Série](https://img.shields.io/badge/Maiconrq-INMTE-orange)](https://github.com/Maiconrq/INMTE)
 [![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/afonsopacifer/open-source-boilerplate/blob/master/LICENSE.md)
 
-> :rocket: Project with OO approaches and Java applications. 
+:rocket: Project with OO approaches and Java applications. 
 
 > :rocket: **Projeto com abordagens de OO e aplicações em Java.**
 
@@ -32,7 +32,7 @@
 
 ## PT-BR 🇧🇷
 1. Crie um fork!
-2. Crie sua feature branch: `git checkout -b my-new-feature` | 
+2. Crie sua feature branch: `git checkout -b my-new-feature`  
 3. Adicione os arquivos modificados:  `git add .`
 4. Faça um Commit com suas alterações: `git commit -m "Add some feature"`
 5. Faça um push da sua branch: `git push origin my-new-feature` 
