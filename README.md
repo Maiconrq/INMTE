@@ -1,2 +1,2 @@
 # INMTE
-Trabalho Para Disciplina de OO para iniciação em Java.
+Projeto com abordagens de OO e aplicações em Java.
