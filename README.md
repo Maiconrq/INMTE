@@ -3,11 +3,13 @@
 # INMTE
 [![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/afonsopacifer/open-source-boilerplate/blob/master/LICENSE.md)
 > :rocket: Project with OO approaches and Java applications. / Projeto com abordagens de OO e aplicações em Java.
-## Versioning/Versionamento
-To keep better organization of releases we follow the [Semantic Versioning 2.0.0](http://semver.org/) guidelines.
-## Contributing/Contribuindo
 
-Want to contribute? Follow these recommendations: / Pretende contribuir? siga esses passos:
+## Versioning / Versionamento
+To keep better organization of releases we follow the [Semantic Versioning 2.0.0](http://semver.org/) guidelines.
+
+## Contributing / Contribuindo
+
+Want to contribute? Follow these recommendations:  /  Pretende contribuir? siga esses passos:
 
 ## en-US 🇺🇸
 1. Fork it!
@@ -31,7 +33,7 @@ Want to contribute? Follow these recommendations: / Pretende contribuir? siga es
 **Depois que seu pull request for mergeado**
 > Depois que seu pull request for mergeado, você pode apagar sua branch. 
 
-## History/história
+## History / História
 See [Commit changes](https://github.com/Maiconrq/INMTE/commits/main) for details. / Consulte [Mudanças de commit](https://github.com/Maiconrq/INMTE/commits/main) para obter detalhes.
-## License
+## License / Licença
 [MIT License](https://github.com/Maiconrq/INMTE/blob/main/LICENSE) © [Maicon Rodrigues](https://github.com/Maiconrq)
