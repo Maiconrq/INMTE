@@ -10,7 +10,8 @@ This project does not follow any versioning requirements.  /  Esse projeto não 
 
 ## Contributing / Contribuindo
 
-Want to contribute? <b>Follow these recommendations:<b/>  /  Pretende contribuir? <b>siga esses passos:<b/>
+Want to contribute? <b>Follow these recommendations:<b/>  /  
+Pretende contribuir? <b>siga esses passos:<b/>
 
 ## en-US 🇺🇸
 1. Fork it!
