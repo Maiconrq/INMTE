@@ -10,10 +10,10 @@
 
 To keep better organization of releases we follow the [Semantic Versioning 2.0.0](http://semver.org/) guidelines.
 
-# Contributing/Contribuindo
+## Contributing/Contribuindo
 
 <details>
-<summary>Want to contribute? Follow these recommendations:</summary>
+Want to contribute? Follow these recommendations:
 
 ## PT-BR 🇧🇷
 1. Crie um fork!
