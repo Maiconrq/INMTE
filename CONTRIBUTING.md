@@ -10,7 +10,7 @@
 
 - Adicione um título e uma descrição que deixe claro sua sugestão :)
 
-**Depois que seu pull request for mergeado**
+**Depois que seu pull request for mergeado:**
 
 > Depois que seu pull request for mergeado, você pode apagar sua branch. 
 
@@ -24,6 +24,6 @@
 
 - Add a title os a description that let clear your suggestion :).
 
-**After your pull request is merged** 
+**After your pull request is merged:** 
 
 > After your pull request is merged, you can safely delete your branch.
