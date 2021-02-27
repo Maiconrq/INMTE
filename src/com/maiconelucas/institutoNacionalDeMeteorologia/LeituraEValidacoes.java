@@ -77,9 +77,9 @@ public class LeituraEValidacoes extends Painel {
 	
 	
 	
-	public int obtemTamanhoMes() {
+	/*public int obtemTamanhoMes() {
 		
-	}
+	}*/
 	
 	
 	
