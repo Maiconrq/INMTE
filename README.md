@@ -5,7 +5,7 @@
 > :rocket: Project with OO approaches and Java applications. / Projeto com abordagens de OO e aplicações em Java.
 
 ## Versioning / Versionamento
-To keep better organization of releases we follow the [Semantic Versioning 2.0.0](http://semver.org/) guidelines.
+This project does not follow any versioning requirements.  /  Esse projeto não segue nenhum requisito de versionamento.
 
 ## Contributing / Contribuindo
 
