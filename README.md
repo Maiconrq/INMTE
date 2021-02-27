@@ -13,7 +13,7 @@ To keep better organization of releases we follow the [Semantic Versioning 2.0.0
 ## Contributing/Contribuindo
 
 <details>
-Want to contribute? Follow these recommendations:
+<summary>Want to contribute? Follow these recommendations:<summary/>
 
 ## PT-BR 🇧🇷
 1. Crie um fork!
