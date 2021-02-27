@@ -11,7 +11,7 @@
 To keep better organization of releases we follow the [Semantic Versioning 2.0.0](http://semver.org/) guidelines.
 
 # Contributing/Contribuindo
-<br>
+
 Want to contribute? Follow these recommendations:
 
 ## PT-BR 🇧🇷
