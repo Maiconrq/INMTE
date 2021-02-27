@@ -1,2 +1,2 @@
 # INMTE
-Trabalho Para Disciplina de OO para iniciação em Java
+Trabalho Para Disciplina de OO para iniciação em Java.
