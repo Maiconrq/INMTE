@@ -15,8 +15,7 @@
 
 ## Contributing / Contribuindo
 
-Want to contribute? **Follow these recommendations:<b/>**  
-
+- Want to contribute? **Follow these recommendations:<b/>**  
 
 > **Pretende contribuir? siga esses passos:**
 
