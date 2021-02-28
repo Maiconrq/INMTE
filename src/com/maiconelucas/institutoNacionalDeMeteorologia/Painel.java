@@ -21,5 +21,10 @@ public class Painel {
 			System.out.println("--------------------------------");
 	 }
 	 
+	 public static void apresentaLerTemperaturas(int dia) {
+		    System.out.println("------------------------------------------------"); 
+			System.out.println("         Informe a temperatura do dia "+ dia + ":   ");
+			System.out.println("------------------------------------------------");
+	 }
 }
 
