@@ -1,12 +1,15 @@
 package com.maiconelucas.institutoNacionalDeMeteorologia;
-
 import java.util.Scanner;
 
-public class LeituraEValidacoes extends Painel {
+public class LeituraEValidacoes  extends Painel {
 	private int numeroMes;
 	private int numeroAno;
 	private int tamanhoMes;
 	private double[] temperaturas;
+	private double temperaturaMaxima;
+	private double temperaturaMinima;
+	private double temperaturaMedia;
+	
 	
 	public LeituraEValidacoes() {
 	}
@@ -49,6 +52,31 @@ public class LeituraEValidacoes extends Painel {
 
 	public void setTamanhoMes(int tamanhoMes) {
 		this.tamanhoMes = tamanhoMes;
+	}
+    
+	public double getTemperaturaMaxima() {
+		return temperaturaMaxima;
+	}
+
+	public void setTemperaturaMaxima(double temperaturaMaxima) {
+		this.temperaturaMaxima = temperaturaMaxima;
+	}
+
+	public double getTemperaturaMinima() {
+		return temperaturaMinima;
+	}
+
+	public void setTemperaturaMinima(double temperaturaMinima) {
+		this.temperaturaMinima = temperaturaMinima;
+	}
+
+    
+	public double getTemperaturaMedia() {
+		return temperaturaMedia;
+	}
+
+	public void setTemperaturaMedia(double temperaturaMedia) {
+		this.temperaturaMedia = temperaturaMedia;
 	}
 
 	public boolean validaMesAno(int mes, int ano ){
@@ -120,16 +148,45 @@ public class LeituraEValidacoes extends Painel {
 	public void lerTemperaturas(){ // TERMINAR !!!
 
 		int tamanho = getTamanhoMes();
+		double soma=0;
 		double[] temperaturas = new double[tamanho];
 		Scanner ler= new Scanner(System.in);
-		double t;
 		for(int i=0;i<tamanho;i++){
 		     apresentaLerTemperaturas(i);
-		     t=ler.nextDouble();  
-		     temperaturas[i] = t;
+		     temperaturas[i]=ler.nextDouble(); 
+		     soma+=temperaturas[i];
 		}
 		setTemperaturas(temperaturas);
+		
 		ler.close();
+		
+		double maior=temperaturas[1];
+		double menor=temperaturas[1];
+		
+		
+		
+		for(int i=0;i<tamanho;i++) {
+			if(temperaturas[i]>maior) {
+				maior=temperaturas[i];
+			}
+		}
+		for(int i=0;i<tamanho;i++) {
+			if(temperaturas[i]<menor) {
+				menor=temperaturas[i];
+			}
+		
+		}
+		for(int i=0;i<tamanho;i++) {
+			
+		}
+		double media=soma/tamanho;
+		setTemperaturaMaxima(maior);
+		setTemperaturaMinima(menor);
+		setTemperaturaMedia(media);
 	}
+	
+	
+	
+	
 
 }
