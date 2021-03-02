@@ -29,6 +29,9 @@
 
 > **Consulte [Mudanças de commit](https://github.com/Maiconrq/INMTE/commits/main) para obter detalhes.**
 
+## UML Diagram / Diagrama UML
+![UML diagram](https://github.com/Maiconrq/INMTE/blob/main/InmteUMLDiagram.png)
+
 
 ## License / Licença
 [MIT License](https://github.com/Maiconrq/INMTE/blob/main/LICENSE) © [Maicon Rodrigues](https://github.com/Maiconrq)
