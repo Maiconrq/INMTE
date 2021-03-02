@@ -10,6 +10,8 @@
 
 > :rocket: **Projeto com abordagens de OO e aplicações em Java.**
 
+## UML Diagram / Diagrama UML
+<img src="https://github.com/Maiconrq/INMTE/blob/main/InmteUMLDiagram.png" alt="UMLDiagram" width="550"/>
 
 ## Versioning / Versionamento
 - This project does not follow any versioning requirements.
@@ -28,9 +30,6 @@
 - See [Commit changes](https://github.com/Maiconrq/INMTE/commits/main) for details.
 
 > **Consulte [Mudanças de commit](https://github.com/Maiconrq/INMTE/commits/main) para obter detalhes.**
-
-## UML Diagram / Diagrama UML
-<img src="https://github.com/Maiconrq/INMTE/blob/main/InmteUMLDiagram.png" alt="UMLDiagram" width="550"/>
 
 ## License / Licença
 [MIT License](https://github.com/Maiconrq/INMTE/blob/main/LICENSE) © [Maicon Rodrigues](https://github.com/Maiconrq)
