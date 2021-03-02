@@ -13,6 +13,12 @@
 ## UML Diagram / Diagrama UML
 <img src="https://github.com/Maiconrq/INMTE/blob/main/InmteUMLDiagram.png" alt="UMLDiagram" width="550"/>
 
+## Project Kanban / Kanban do Projeto
+
+- to see what we are implementing at the moment just click on [This link](https://trello.com/b/8oqCnlLg/inmte) to see our Kanban.  
+
+> **para ver o que estamos implementando no momento é só clicar [Neste link](https://trello.com/b/8oqCnlLg/inmte) para ver nosso Kanban**
+
 ## Versioning / Versionamento
 - This project does not follow any versioning requirements.
 
